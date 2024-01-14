@@ -1,0 +1,35 @@
+
+# To add a language, search for it on huggingface.co and include it in the dictionary.
+# The application supports only Facebook MMS TTS models
+languages = {
+    'Arabic': 'facebook/mms-tts-ara',
+    'Azerbaijani': 'facebook/mms-tts-azb',
+    'Bengali': 'facebook/mms-tts-ben',
+    'Dutch': 'facebook/mms-tts-nld',
+    'English': 'facebook/mms-tts-eng',
+    'Finnish': 'facebook/mms-tts-fin',
+    'French': 'facebook/mms-tts-fra',
+    'German': 'facebook/mms-tts-deu',
+    'Greek': 'facebook/mms-tts-ell',
+    'Gujarati': 'facebook/mms-tts-guj',
+    'Hebrew': 'facebook/mms-tts-heb',
+    'Hindi': 'facebook/mms-tts-hin',
+    'Indonesian': 'facebook/mms-tts-ind',
+    'Korean': 'facebook/mms-tts-kor',
+    'Mari': 'facebook/mms-tts-mhr',
+    'Persian': 'facebook/mms-tts-fas',
+    'Polish': 'facebook/mms-tts-pol',
+    'Portuguese': 'facebook/mms-tts-por',
+    'Quechua': 'facebook/mms-tts-quz',
+    'Romanian': 'facebook/mms-tts-ron',
+    'Russian': 'facebook/mms-tts-rus',
+    'Spanish': 'facebook/mms-tts-spa',
+    'Swahili ': 'facebook/mms-tts-swh',
+    'Swedish': 'facebook/mms-tts-swe',
+    'Tamil': 'facebook/mms-tts-tam',
+    'Thai': 'facebook/mms-tts-tha',
+    'Turkish': 'facebook/mms-tts-tur',
+    'Ukrainian': 'facebook/mms-tts-ukr',
+    'Vietnamese': 'facebook/mms-tts-vie',
+    'Yoruba': 'facebook/mms-tts-yor'
+}
